@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.ant-table-wrapper{
+  box-shadow: rgb(63 63 68 / 5%) 0px 0px 0px 1px, rgb(63 63 68 / 15%) 0px 1px 3px 0px;
+    border-radius: 3px;
+}
+.ant-table-pagination.ant-pagination{
+  margin:16px !important;
+}
